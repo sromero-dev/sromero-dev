@@ -10,6 +10,7 @@ Soy una persona trabajadora, responsable y comunicativa, con experiencia en aten
 Cuento con experiencia en Python aplicado a visión artificial (Ultralytics/YOLO) y desarrollo frontend con React. Me interesan los proyectos de IA o desarrollo back-end / full-stack donde pueda aportar buenas prácticas de código y despliegue.
 
 Actualmente dedico mi tiempo libre a aprender más sobre front-end a través de *bootcamps*, *cursos online (https://midu.dev/)* y, en general, cualquier recurso que me ayude a crecer como profesional!
+
 ---
 
 ## 🚀 Experiencia Laboral
