@@ -84,6 +84,13 @@ Actualmente dedico mi tiempo libre a aprender más sobre front-end a través de 
 
 ---
 
-Movilidad y disponibilidad: ✅
+## 🔎 Proyectos
+
+- 👉 Repositorios de prácticas básicas con Java, BBDD, Python y Docker: https://github.com/sromerodiaz-dc?tab=repositories
+- 👉 Repositorio de un proyecto personal sobre el desarrollo de un videojuego 2D empleando **únicamente** Java: https://github.com/sromerodiaz-dc/proyecto-programacion/blob/Desarrollo/README.md
+
+---
+
+**Movilidad geográfica** y **disponibilidad**: ✅
 
 Ante cualquier duda o posibilidad de empleo, por favor, no dudes en contactarme!
