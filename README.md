@@ -21,7 +21,7 @@ Actualmente dedico mi tiempo libre a aprender más sobre front-end a través de 
 - Mantenimiento, documentación y revisión de programas.  
 - Uso de tecnologías como React, Python, YOLO y otras relacionadas con IA.
 
-### Administrador de Sistemas (NI)  
+### Administrador de Sistemas (N1)  
 **Altia Consultores, Vigo** | Septiembre 2023 - Enero 2024  
 - Atención a clientes en entorno 24/7.  
 - Monitorización y mantenimiento de servicios.  
@@ -50,9 +50,9 @@ Actualmente dedico mi tiempo libre a aprender más sobre front-end a través de 
 
 ## 💻 Habilidades Técnicas | Stack
 
-- **Lenguajes de programación:** Python, Java, SQL, Bash  
+- **Lenguajes de programación:** Python, Java, JavaScript, HTML5, CSS, Bash  
 - **Frameworks y librerías:** YOLO / Ultralytics, OpenCV, PyTorch, TensorFlow, React  
-- **Herramientas y tecnologías:** Git, Docker, Linux, Virtualización de Sistemas  
+- **Herramientas y tecnologías:** Git, Docker, Linux, Virtualización de Sistemas, MongoDB, PostgreSQL  
 - **Entornos de desarrollo:** VSCode, JetBrains IDEs
 
 ---
