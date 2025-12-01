@@ -2,7 +2,6 @@
 ### **Full Stack Developer | Java · JavaScript · Python · AI**  
 *Doble formación en Desarrollo (DAM) y Sistemas (ASIR)*  
 *📍 Vigo, Pontevedra · Disponibilidad presencial/híbrida/remota* 
-*🚗 Permiso B y vehículo propio*
 
 ---
 
@@ -97,5 +96,5 @@ Mi estancia internacional en Irlanda y mi experiencia en atención al cliente 24
 - **Teléfono**: +34 685 17 70 37  
 
 ---
-
+> *🚗 Permiso B y vehículo propio*
 > *"Mi objetivo es formar parte de un equipo donde pueda aportar valor, aprender y crecer profesionalmente mientras desarrollo productos que impacten a usuarios reales."*
