@@ -2,7 +2,6 @@
 ### **Full Stack Developer | Java · JavaScript · Python · AI**  
 *Doble formación en Desarrollo (DAM) y Sistemas (ASIR)*  
 *📍 Vigo, Pontevedra · Disponibilidad presencial/híbrida/remota* 
-
 *🚗 Permiso B y vehículo propio*
 
 ---
