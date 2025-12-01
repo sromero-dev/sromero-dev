@@ -64,7 +64,7 @@ Mi estancia internacional en Irlanda y mi experiencia en atención al cliente 24
 
 ### 🎮 **Product Store Manager - Aplicativo web básico de productos**
 *Aplicación web full-statck realizada con Node.js, Express.js, React, JS y CSS.*  
-🔗 [Ver en GitHub](https://github.com/sromerodiaz-dc/proyecto-programacion/blob/Desarrollo](https://github.com/sromero-dev/Product-Store-Project)
+🔗 [Ver en GitHub](https://github.com/sromero-dev/Product-Store-Project)
 
 ### 💬 **Chatty! – Aplicación de chat en tiempo real (en desarrollo)**
 *Aplicación web full-stack con WebSockets, React y Node.js.*  
