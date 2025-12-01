@@ -97,4 +97,5 @@ Mi estancia internacional en Irlanda y mi experiencia en atención al cliente 24
 
 ---
 > *🚗 Permiso B y vehículo propio*
+> 
 > *"Mi objetivo es formar parte de un equipo donde pueda aportar valor, aprender y crecer profesionalmente mientras desarrollo productos que impacten a usuarios reales."*
