@@ -62,7 +62,7 @@ Mi estancia internacional en Irlanda y mi experiencia en atención al cliente 24
 *Desarrollo completo de un videojuego 2D en Java como proyecto formativo.*  
 🔗 [Ver en GitHub](https://github.com/sromerodiaz-dc/proyecto-programacion/blob/Desarrollo)
 
-### 🎮 **Product Store Manager - Aplicativo web básico de productos**
+### 🏪 **Product Store Manager - Aplicativo web básico de productos**
 *Aplicación web full-statck realizada con Node.js, Express.js, React, JS y CSS.*  
 🔗 [Ver en GitHub](https://github.com/sromero-dev/Product-Store-Project)
 
