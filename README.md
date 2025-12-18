@@ -1,105 +1,112 @@
-# 👨‍💻 Santiago Romero Díaz  
-### **Full Stack Developer | Java · JavaScript · Python · AI**  
-*Doble formación en Desarrollo (DAM) y Sistemas (ASIR)*  
-*📍 Vigo, Pontevedra · Disponibilidad presencial/híbrida/remota* 
+# 👨‍💻 Santiago Romero
+### Full Stack Developer | Java · JavaScript · Python · AI Dual qualification in Software Development (DAM) and Network Systems Administration (ASIR) 📍 Vigo, Pontevedra · Immediate availability | Open to travel 
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Desarrollador Full Stack con perfil híbrido y versátil gracias a mi doble formación en **Desarrollo de Aplicaciones (DAM)** y **Administración de Sistemas (ASIR)**.
+Full Stack Developer with a hybrid and versatile profile thanks to my dual background in Multiplatform Application Development (DAM) and Network Computer Systems Administration (ASIR).
 
-Tengo experiencia real en:
-- **Backend con Java (Spring Boot)** y **Python aplicado a visión artificial** (YOLO/Ultralytics).
-- **Frontend moderno con React, TypeScript y JavaScript**.
-- **Automatización, despliegues y administración de sistemas** en entornos Linux.
+I have hands-on experience in:
 
-Mi estancia internacional en Irlanda y mi experiencia en atención al cliente 24/7 me han dotado de una gran **adaptabilidad, autonomía y capacidad comunicativa**.
+- Backend with Java (Spring Boot) and Python applied to Computer Vision (YOLO/Ultralytics).
+- Modern Frontend with React, TypeScript, and JavaScript.
+- Automation, deployments, and systems administration in Linux environments.
 
-**Busco retos en desarrollo web, automatización (RPA) o proyectos full-stack donde pueda aportar valor desde el primer día.**
+My international experience in Ireland and my 24/7 customer support background have provided me with great adaptability, autonomy, and strong communication skills.
 
----
-
-## 💼 Experiencia Relevante
-
-### 🐍 **Desarrollador de Software – Merasys** *(Mar 2025 – Actualidad)*
-- Desarrollo de software en **Python aplicado a visión artificial** (YOLO/Ultralytics).
-- **Optimización de modelos de IA**: mejoré la precisión en reconocimiento de matrículas mediante entrenamiento manual y adaptación de repositorios OCR.
-- Uso de **React, Python, OpenCV y PyTorch** en proyectos de IA.
-
-### ⚙️ **Administrador de Sistemas (NI) – Altia Consultores** *(Sep 2023 – Ene 2024)*
-- Atención al cliente en entornos **24/7** y monitorización de servicios.
-- **Virtualización de sistemas** y mantenimiento de infraestructura.
-
-### 🌍 **Técnico de Sistemas (Erasmus+) – Seanchas Research, Cork, Irlanda** *(Mar 2023 – Jun 2023)*
-- Despliegue y mantenimiento de redes en entorno real.
-- Trabajo en equipo utilizando **inglés técnico** de forma profesional.
+**I am looking for challenges in web development, automation (RPA), or full-stack projects where I can add value from day one.**
 
 ---
 
-## 🛠️ Stack Técnico
+## 💼 Relevant Experience
+### 🐍 Software Developer – Merasys (Mar 2025 – Present)
 
-### **Backend & Automatización**
+- Software development in **Python applied to Computer Vision (YOLO/Ultralytics)**.
+- **AI Model Optimization**: improved accuracy in license plate recognition through manual training and adaptation of **OCR** repositories.
+- Use of React, Python, OpenCV, and PyTorch in AI-driven projects.
+
+### ⚙️ Systems Administrator (L1) – Altia Consultores (Sep 2023 – Jan 2024)
+
+- Customer support in **24/7** environments and service monitoring.
+- **Systems virtualization** and infrastructure maintenance.
+
+### 🌍 Systems Technician (Erasmus+) – Seanchas Research, Cork, Ireland (Mar 2023 – Jun 2023)
+
+- Network deployment and maintenance in a real-world professional environment.
+- Teamwork using **technical English** in a professional setting.
+  
+---
+ 
+## 🛠️ Technical Stack
+### Backend & Automation
+
 - **Java** (Spring Boot), **Python**, Node.js, Express.js
-- **Bash scripting**, Linux, Virtualización, Docker
-- **Bases de datos**: SQL, MongoDB (Mongoose)
-- **IA/Computer Vision**: YOLO, Ultralytics, OpenCV, PyTorch
+- **Bash scripting**, Linux, Virtualization, Docker
+- **Databases**: SQL, MongoDB (Mongoose)
+- **AI/Computer Vision**: YOLO, Ultralytics, OpenCV, PyTorch
 
-### **Frontend**
+### Frontend
+
 - JavaScript (ES6+), TypeScript, React.js, HTML5, CSS3
 - React Router DOM, Zustand, Chakra UI
-- *Actualmente aprendiendo **Svelte** para ampliar mi stack frontend*
+- Currently learning Svelte to expand my frontend stack
 
-### **Herramientas & DevOps**
-- Git, Docker, Linux (administración), VSCode, JetBrains IDEs
-- Metodologías ágiles, despliegue continuo, monitorización
+### Tools & DevOps
 
----
-
-## 📂 Proyectos Destacados
-
-### 🎮 **Videojuego 2D en Java (base sin frameworks)**
-*Desarrollo completo de un videojuego 2D en Java como proyecto formativo.*  
-🔗 [Ver en GitHub](https://github.com/sromerodiaz-dc/proyecto-programacion/blob/Desarrollo)
-
-### 🏪 **Product Store Manager - Aplicativo web básico de productos**
-*Aplicación web full-statck realizada con Node.js, Express.js, React, JS y CSS.*  
-🔗 [Ver en GitHub](https://github.com/sromero-dev/Product-Store-Project)
-
-### 💬 **Chatty! – Aplicación de chat en tiempo real (en desarrollo)**
-*Aplicación web full-stack con WebSockets, React y Node.js.*  
-🔗 [Ver en GitHub](https://github.com/sromero-dev/Chatty)
+- Git, Docker, Linux (administration), VSCode, JetBrains IDEs
+- Agile methodologies, continuous deployment, monitoring
 
 ---
 
-## 📚 Formación & Certificaciones
+## 📂 Featured Projects
+### 🎮 2D Video Game in Java (Vanilla)
 
-### **Formación Reglada**
-- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** – CPR Daniel Castelao *(2023-2025)*
-- **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** – CPR Daniel Castelao *(2021-2023)*
+*Full development of a 2D video game in Java as a training project.* 
+🔗 [View on GitHub](https://github.com/sromerodiaz-dc/proyecto-programacion/blob/Desarrollo) 
 
-### **Certificaciones Relevantes**
-- **Modern Full-Stack Web Development (100h+)** – Udemy *(en curso)*
-- **PHP: Ampliando Conceptos** – OpenWebinars *(2024)*
-- **PHP: Fundamentos** – OpenWebinars *(2024)*
+### 🏪 Product Store Manager - Full Stack Web App
 
----
+*A basic full-stack web application built with Node.js, Express.js, React, JS, and CSS.* 
+🔗 [View on GitHub](https://github.com/sromero-dev/Product-Store-Project)
 
-## 🌍 Idiomas
-- **Español**: Nativo
-- **Gallego**: Nativo
-- **Inglés**: B2 (Certificado)  
-  *Experiencia laboral en Irlanda (Erasmus FP+) e inmersión lingüística en Gales.*
+### 💬 Chatty! – Real-time Chat Application (In Progress)
+
+*Full-stack web application featuring WebSockets, React, and Node.js.* 
+🔗 [View on GitHub](https://github.com/sromero-dev/Chatty)
 
 ---
 
-## 📬 Contacto
-- **Email**: sromerodiaz.work@gmail.com  
-- **LinkedIn**: linkedin.com/in/sromerodiaz-dev  
-- **GitHub**: github.com/sromero-dev  
-- **Teléfono**: +34 685 17 70 37  
+## 📚 Education & Certifications
+### Formal Education
+
+- **Higher Technician Degree in Multiplatform Application Development** – CPR Daniel Castelao (2023-2025)
+- **Higher Technician Degree in Network Computer Systems Administration** – CPR Daniel Castelao (2021-2023)
+
+### Relevant Certifications
+
+- **Modern Full-Stack Web Development (100h+)** – Udemy (In progress)
+- **PHP: Advanced Concepts** – OpenWebinars (2024)
+- **PHP: Fundamentals** – OpenWebinars (2024)
 
 ---
-> *🚗 Permiso B y vehículo propio*
-> 
-> *"Mi objetivo es formar parte de un equipo donde pueda aportar valor, aprender y crecer profesionalmente."*
+
+## 🌍 Languages
+
+- **Spanish**: Native
+- **Galician**: Native
+- **English**: B2 
+*Work experience in Ireland (Erasmus+) and language immersion in Wales.*
+
+---
+
+## 📬 Contact
+
+- **Email**: sromerodiaz.work@gmail.com
+- **LinkedIn**: linkedin.com/in/sromerodiaz-dev
+
+---
+
+*🚗 Category B Driver's License and own vehicle*
+
+*"My goal is to be part of a team where I can contribute value, learn, and grow professionally."*
