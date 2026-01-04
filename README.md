@@ -1,5 +1,8 @@
 # 👨‍💻 Santiago Romero
-### Full Stack Developer | Java · JavaScript · Python · AI Dual qualification in Software Development (DAM) and Network Systems Administration (ASIR) 📍 Vigo, Pontevedra · Immediate availability | Open to travel 
+### Full Stack Developer | Java · JavaScript · Python · AI Dual qualification in Software Development (DAM) and Network Systems Administration (ASIR) 
+
+
+📍 Vigo, Pontevedra · Immediate availability | Open to travel 
 
 ---
 
