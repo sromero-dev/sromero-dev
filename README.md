@@ -71,7 +71,8 @@ My international experience in Ireland and my 24/7 customer support background h
 ### 🏪 Product Store Manager - Full Stack Web App
 
 *A basic full-stack web application built with Node.js, Express.js, React, JS, and CSS.* 
-🔗 [View on GitHub](https://github.com/sromero-dev/Product-Store-Project)
+🔗 [View Website](https://product-store-project-nje1.onrender.com)
+🔗 [View Repo on GitHub](https://github.com/sromero-dev/Product-Store-Project)
 
 ### 💬 Chatty! – Real-time Chat Application (In Progress)
 
