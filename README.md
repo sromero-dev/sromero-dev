@@ -66,17 +66,23 @@ My international experience in Ireland and my 24/7 customer support background h
 ### 🎮 2D Video Game in Java (Vanilla)
 
 *Full development of a 2D video game in Java as a training project.* 
+
 🔗 [View on GitHub](https://github.com/sromerodiaz-dc/proyecto-programacion/blob/Desarrollo) 
 
 ### 🏪 Product Store Manager - Full Stack Web App
 
 *A basic full-stack web application built with Node.js, Express.js, React, JS, and CSS.* 
+
 🔗 [View Website](https://product-store-project-nje1.onrender.com)
+
 🔗 [View Repo on GitHub](https://github.com/sromero-dev/Product-Store-Project)
 
 ### 💬 Chatty! – Real-time Chat Application (In Progress)
 
 *Full-stack web application featuring WebSockets, React, and Node.js.* 
+
+🔗 [View Website](https://chatty-9rg7.onrender.com/signup)
+
 🔗 [View on GitHub](https://github.com/sromero-dev/Chatty)
 
 ---
