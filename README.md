@@ -77,7 +77,7 @@ My international experience in Ireland and my 24/7 customer support background h
 
 🔗 [View Repo on GitHub](https://github.com/sromero-dev/Product-Store-Project)
 
-### 💬 Chatty! – Real-time Chat Application (In Progress)
+### 💬 Chatty! – Real-time Chat Application
 
 *Full-stack web application featuring WebSockets, React, and Node.js.* 
 
