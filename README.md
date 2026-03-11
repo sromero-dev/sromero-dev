@@ -23,7 +23,7 @@ My international experience in Ireland and my 24/7 customer support background h
 ---
 
 ## 💼 Relevant Experience
-### 🐍 Software Developer – Merasys (Mar 2025 – Present)
+### 🐍 Software Developer – Merasys (Mar 2025 – Dec 2025)
 
 - Software development in **Python applied to Computer Vision (YOLO/Ultralytics)**.
 - **AI Model Optimization**: improved accuracy in license plate recognition through manual training and adaptation of **OCR** repositories.
